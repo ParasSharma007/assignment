@@ -1,6 +1,5 @@
 <?php
 include 'connect.php';
-
 ?>
 <html>
 <head>
@@ -13,7 +12,8 @@ include 'connect.php';
 <script src = "Javascript/javascript.js" type="text/javascript"> </script> 
 <script src="Javascript/jquery.js"></script>
 <!--<script>
-$(document).ready(function(){
+$(document).ready(function()
+{
   $("#Hide").click(function(){
     $("#contain_area").hide();
   });
